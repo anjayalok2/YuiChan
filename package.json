@@ -1,7 +1,7 @@
 {
-  "name": "YuiChan ",
+  "name": "YuiChan",
   "version": "7.3.6",
-  "description": "YuiChan is a whatsapp bot made by nexusNw to make fun and instresing in use of whatsapp.",
+  "description": "YuiChan is the Modified Version of WhatsAsena.",
   "main": "./YuiChan /bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -13,9 +13,11 @@
   "keywords": [
     "whatsapp",
     "bot",
-    "ai"
+    "ai",
+    "YuiChan",
+    "nexusnw"
   ],
-  "author": "nexusNw",
+  "author": "Aflahser",
   "developer": "@nexusNw",
   "license": "GPL-3.0-or-later",
   "bugs": {
@@ -25,7 +27,7 @@
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
-    "w5-textmaker": "^1.0.2",
+    "textmaker-thiccy": "1.2.1",
     "browser-id3-writer": "^4.4.0",
     "playstore-scraper": "^1.0.0",
     "axios": "^0.21.1",
