@@ -1,7 +1,7 @@
 {
     "name": "YUI BY N3XU5 51R",
     "description": "YUI is a whatsapp bot made by nexusNw to make fun and instresing in use of whatsapp.",
-    "logo": "https://i.imgur.com/zdcqaaG.jpeg",
+    "logo": "https://i.imgur.com/2vohhUk.png",
     "keywords": ["whatsapp", "userbot", "Asena", "YUI","nexus", "bot", "api", "ai"],
     "repository": "https://github.com/nexusNw/YUI",
     "website":   "under maintenance",
@@ -159,7 +159,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! use {pp} if you want to add profile picture also add {qt} if you want to add qoutes in your alive message",
             "required": false,
-            "value": " {time} \n\n i am alive  \n\n ```coded by NᴇᷠxᷱꪊSᗒsɪʀ⁩⚠︎```\n\n```{qt}```"
+            "value": "*{qt}*\n\n *i am alive*\n\n ```codded by @N3XU5-51R"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
