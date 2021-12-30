@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /YuiChan/Dockerfile
+      worker: /mainbox/Dockerfile
 run:
    worker: npm start
