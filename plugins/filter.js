@@ -1,6 +1,6 @@
  
 const fs = require('fs')
-const  s = require('../events');
+const Nexus = require('../events');
 const {MessageType, Mimetype } = require('@adiwajshing/baileys');
 const FilterDb = require('./sql/filters');
 const Config = require('../config')
