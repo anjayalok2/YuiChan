@@ -4,7 +4,7 @@ const  s = require('../events');
 const {MessageType, Mimetype } = require('@adiwajshing/baileys');
 const FilterDb = require('./sql/filters');
 const Config = require('../config')
-const nexu = require('../nexu')
+const nexu = require('../nexus')
 const afnp = nexu.PLKAFN !== false ? nexu.PLKAFN.split(',') : [];
 const jid = Config.DISBGM !== false ? Config.DISBGM.split(',') : [];
 const Language = require('../language');
