@@ -416,7 +416,7 @@ await message.client.sendMessage(message.jid, {displayname: "OWNER-2", vcard: vc
         });
     }));
 
-    Nexus.addCommand({pattern: 'yt ?(.*)', fromMe: true, desc: Lang.YT_DESC}, (async (message, match) => { 
+    Nexus.addCommand({pattern: 'ytl ?(.*)', fromMe: true, desc: Lang.YT_DESC}, (async (message, match) => { 
 
         if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.NEED_WORDS,MessageType.text);    
         var reply = await message.client.sendMessage(message.jid,Lang.GETTING_VIDEOS,MessageType.text);
@@ -883,7 +883,7 @@ else if (config.WORKTYPE == 'public') {
         });
     }));
 
-    Nexus.addCommand({pattern: 'yt ?(.*)', fromMe: false, desc: Lang.YT_DESC}, (async (message, match) => { 
+    Nexus.addCommand({pattern: 'ytl ?(.*)', fromMe: false, desc: Lang.YT_DESC}, (async (message, match) => { 
 
         if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.NEED_WORDS,MessageType.text);    
         var reply = await message.client.sendMessage(message.jid,Lang.GETTING_VIDEOS,MessageType.text);
