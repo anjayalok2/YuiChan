@@ -5,8 +5,12 @@
         src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=ᗯᗴᒪᑕOᗰᗴ+TO+YᑌI+ᑕᕼᗩᑎ'Տ+ᖇᗴᑭO......"
             alt="Typing SVG"
         />
-          <p align="center">
-<img src="https://tenor.com/view/anime-feed-say-ahh-ahhh-gif-11658244.gif" alt="GIF" width="290" height="200"/>
+         
+</p>
+
+
+ <p align="center">
+(<img src="https://tenor.com/view/anime-feed-say-ahh-ahhh-gif-11658244.gif" alt="GIF" width="290" height="200"/>
 </p>
     </a>
 </p>
