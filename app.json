@@ -98,7 +98,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "⚠︎•━━━╼♲︎︎︎ʸᵘⁱᶜʰᵃⁿ♲︎︎︎╾━━━•⚠︎"
+            "value": "⚠︎•━━━━━━━━╼♲︎︎︎ʸᵘⁱᶜʰᵃⁿ♲︎︎︎╾━━━━━━━━•⚠︎\n\n *.yta-for song download* \n *.ytv-for video download* \n *.ytl-for video links* \n\n*━ᖴᑌᒪᒪ ᑕOᗰᗰᗩᑎᗪՏ━☯︎━*"
         },      
         "CHAT_BOT": {
             "description": "Turn your account into a chatbot!",
