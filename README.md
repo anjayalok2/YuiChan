@@ -6,7 +6,7 @@
             alt="Typing SVG"
         />
           <p align="center">
-<img src="https://tenor.com/view/raphtalia-anime-pouting-gif-14210688.gif" alt="GIF" width="200" height="200"/>
+<img src="https://tenor.com/view/anime-feed-say-ahh-ahhh-gif-11658244.gif" alt="GIF" width="290" height="200"/>
 </p>
     </a>
 </p>
